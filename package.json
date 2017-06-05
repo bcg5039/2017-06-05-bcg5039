@@ -1,0 +1,19 @@
+{
+  "name": "2017-06-05-bcg5039",
+  "version": "1.0.0",
+  "description": "monday morning exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcg5039/2017-06-05-bcg5039.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcg5039/2017-06-05-bcg5039/issues"
+  },
+  "homepage": "https://github.com/bcg5039/2017-06-05-bcg5039#readme"
+}
