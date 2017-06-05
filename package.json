@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bcg5039/2017-06-05-bcg5039/issues"
   },
-  "homepage": "https://github.com/bcg5039/2017-06-05-bcg5039#readme"
+  "homepage": "https://github.com/bcg5039/2017-06-05-bcg5039#readme",
+  "dependencies": {
+    "ramda": "^0.24.1"
+  }
 }
